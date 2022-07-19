@@ -13,4 +13,5 @@ After you've done that, create a new empty folder, and drag in the ``` main.py `
 
 # Start broadcasting
 To start broadcasting, drag in your video over and then name it ``` broadcast.mp4 ```.
+Then, create a new file called ``` broadcastDescription ``` (with no file extension) and input the description of your channel.
 Run the ``` main.py ``` file and you should be good to go!
