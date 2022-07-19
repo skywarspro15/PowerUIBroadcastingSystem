@@ -9,7 +9,7 @@ def FlaskServer():
   
   @app.route('/')
   def index():
-      return r'This is the broadcast station of JeremyTV. This station currently doesn`t have a site.'
+      return r'This is the broadcast station of PowerUI TV. This station currently doesn`t have a site.'
   @app.route("/broadcastData")
   def getBroadcastData():
     with open("broadcastData", "r") as f:
